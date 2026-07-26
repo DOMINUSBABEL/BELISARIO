@@ -58,6 +58,7 @@ BELISARIO incorpora una suite expandida de **Skills Tácticas**:
 | :--- | :--- |
 | `skills/loop_orchestration` | Orquestación inteligente de horarios y slots óptimos de publicación (08:00, 12:00, 16:00, 20:00 UTC-5). |
 | `skills/quality_refactor` | Inspección de repositorios y refactorización del motor audiovisual (Pillow, FFmpeg, Kinetic Captions). |
+| `skills/audiovisual_qa` | Auditoría técnica automática fotograma a fotograma (FFprobe/Pillow) y disparo de re-renderizado en caso de fallas. |
 | `skills/interactive_engagement` | Generación automática de comentarios fijados (Pinned Comments) diseñados para encender la caja de comentarios. |
 | `skills/geist_dialectic` | Gestión del ciclo dialéctico Tesis-Antítesis-Síntesis y actualización de la memoria Asimoviana. |
 | `skills/metrics_telemetry` | Extracción de analítica en tiempo real desde YouTube Studio, X Graphql y TikTok. |
