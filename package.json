@@ -1,0 +1,26 @@
+{
+  "name": "belisario",
+  "version": "1.0.0",
+  "description": "Master Autonomous Orchestrator & Dialectical Quality Engine for VAREGO and KINESIO",
+  "main": "belisario_orchestrator.py",
+  "scripts": {
+    "start": "python belisario_orchestrator.py --loop",
+    "audit": "python belisario_orchestrator.py --audit"
+  },
+  "keywords": [
+    "autonomous-agent",
+    "orchestrator",
+    "video-pipeline",
+    "geist",
+    "youtube-shorts",
+    "varego",
+    "kinesio"
+  ],
+  "author": "Juan Esteban Gómez Bernal (DOMINUSBABEL)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
